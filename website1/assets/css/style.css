@@ -1,4 +1,35 @@
-body{
-    background:white;
+
+body {background-color: white;}
+
+.round-image{
+    border-radius: 50%;
+    widows:20%;
+    height:30%;
+}
+
+
+/* CONTACT FORM STYLES */
+.container{
+    background: white;
+     width: 500px;
+     margin: auto;
+     padding: 10px;
+     }
+
+.Contact-sub-header{
+    text-size-adjust: 11px;
+}
+
+.contact_grey_box{
+    background-size: 80%;
+    background-color: #e9e9e9;
+}
+
+.formGroupExampleInput{
+    text-align: right;
+}
+
+.btn-primary{
+    float:right;
 }
 
