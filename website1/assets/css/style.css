@@ -1,14 +1,10 @@
-<<<<<<< HEAD
-body{
-    background: #BDBDBD;
-=======
+
 body {background-color: white;}
 
 .round-image{
     border-radius: 50%;
     widows:20%;
     height:30%;
->>>>>>> 57073e917dc148ab7cd5825e43c6168714582c2f
 }
 
 
@@ -21,7 +17,7 @@ body {background-color: white;}
      }
 
 .Contact-sub-header{
-    text-size-adjust: 11px
+    text-size-adjust: 11px;
 }
 
 .contact_grey_box{
@@ -30,10 +26,10 @@ body {background-color: white;}
 }
 
 .formGroupExampleInput{
-    text-align: right
+    text-align: right;
 }
 
 .btn-primary{
-    float:right
+    float:right;
 }
 
